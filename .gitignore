@@ -1,3 +1,4 @@
 *.o
 mdriver
 .DS_Store
+settings.json
